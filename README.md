@@ -12,6 +12,8 @@
     <a href="https://jimmysuen.github.io/">Xiao Sun</a><br>
 </p>
 
+#### <p align="center">[arXiv](https://arxiv.org/abs/2411.13026)</p>
+
 # 
 ![framework](assets/framework.png)
 
@@ -60,7 +62,7 @@ If you find this work useful in your research, please consider citing:
       title={X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation}, 
       author={Yuchen, Yang and Xuanyi, Liu and Xing, Gao and Zhihang, Zhong and Xiao, Sun},
       year={2024},
-      eprint={xxxx},
+      eprint={2411.13026},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
