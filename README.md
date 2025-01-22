@@ -46,7 +46,7 @@ cd scripts
 
 
 ### Note
-We conduct experiments in two stages: training with `*S1.yaml` and finetuning with `*S2.yaml`. One-stage training is also works, but the performance is not as good as two-stage training.
+We conduct experiments in two stages: training with `*S1.yaml` and finetuning with `*S2.yaml`. One-stage training also works, but the performance is not as good as two-stage training.
 
 Configs are named in \<dataset\>\_\<detector_type\>\_\<distribution_type\>\<stage\>.yaml. 
 
