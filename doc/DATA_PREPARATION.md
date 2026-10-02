@@ -3,6 +3,8 @@ H36M, MPI-INF-3DHP, MPII and TikTok datasets can be downloaded from the offical 
 
 Preprocessing of H36M can refer to [this repo](https://github.com/microsoft/multiview-human-pose-estimation-pytorch?tab=readme-ov-file).
 
+For convience, we provide the preprocessed H36M annotations, according to the [Github Issue](https://github.com/Charrrrrlie/X-as-Supervision/issues/1). You can download it from [this url](https://drive.google.com/file/d/1oXZbsBVfEgCn_EYjjvRurU_1J1Wu6tvk/view?usp=sharing).
+
 Annotations of MPII in JSON format can be found in [this url](https://download.openmmlab.com/mmpose/datasets/mpii_annotations.tar).
 
 The file tree should be like:

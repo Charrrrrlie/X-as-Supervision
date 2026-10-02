@@ -1,4 +1,4 @@
-# X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation
+# Contending with Depth Ambiguity in Monocular 3D Pose Estimation via Multi-Hypothesis Modeling and SMPL Priors
 
 <p align="center">
     <a href="https://charrrrrlie.github.io/">Yuchen Yang</a>
@@ -9,10 +9,14 @@
     &nbsp;·&nbsp;
     <a href="https://zzh-tech.github.io/">Zhihang Zhong</a>
     &nbsp;·&nbsp;
+    <a href="https://weiyaolin.github.io/index.html">Weiyao Lin</a>
+    &nbsp;·&nbsp;
     <a href="https://jimmysuen.github.io/">Xiao Sun</a><br>
 </p>
 
-#### <p align="center">[arXiv](https://arxiv.org/abs/2411.13026)</p>
+#### <p align="center"> [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11703673) &nbsp;·&nbsp; [arXiv](https://arxiv.org/abs/2411.13026)</p>
+
+`Previous Title` "X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation"
 
 # 
 ![framework](assets/framework.png)
